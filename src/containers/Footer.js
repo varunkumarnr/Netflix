@@ -4,11 +4,11 @@ function FooterContainer() {
   return (
     <>
       <Footer>
-        <Footer.Title>Questions? Call </Footer.Title>
+        <Footer.Title>Questions? Call 000-800-040-1843</Footer.Title>
         <Footer.Break />
         <Footer.Row>
           <Footer.Column>
-            <Footer.Link href='#'>FAQ</Footer.Link>
+            <Footer.Link href='#'>FAQ </Footer.Link>
             <Footer.Link href='#'>Media Centre</Footer.Link>
             <Footer.Link href='#'>Ways to Watch</Footer.Link>
             <Footer.Link href='#'>Cookie Preferences</Footer.Link>
@@ -36,6 +36,8 @@ function FooterContainer() {
             <Footer.Link href='#'>Legal Notices</Footer.Link>
           </Footer.Column>
         </Footer.Row>
+        <Footer.Break />
+        <Footer.Text>Netflix India</Footer.Text>
       </Footer>
     </>
   );
