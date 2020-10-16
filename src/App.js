@@ -7,9 +7,8 @@ function App() {
   return (
     <>
       <JumbotronContainer />
-       <FaqsContainer />
+      <FaqsContainer />
       <FooterContainer />
-
     </>
   );
 }
