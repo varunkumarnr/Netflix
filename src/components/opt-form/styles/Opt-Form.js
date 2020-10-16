@@ -34,7 +34,7 @@ export const Button = styled.div`
 
   img {
     margin-left: 10px;
-    filter: brightness invert(1);
+    filter: brightness(0) invert(1);
     width: 24px;
   }
   &:hover {

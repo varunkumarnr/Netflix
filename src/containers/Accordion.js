@@ -22,7 +22,7 @@ export function FaqsContainer() {
         <OptForm.Break />
         <OptForm.Input placeholder='Email address' />
 
-        <OptForm.Button>Try 30 Days free</OptForm.Button>
+        <OptForm.Button>Get Started</OptForm.Button>
       </OptForm>
     </Accordion>
   );
