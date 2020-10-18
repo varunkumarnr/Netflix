@@ -6,7 +6,6 @@ export const Container = styled.div`
   min-height: 660px;
   background-color: rgba(0, 0, 0, 0.75);
   box-radius: 5px;
-  width: 100%;
   margin: auto;
   max-width: 450px;
   padding: 60px 68px 40px;
