@@ -5,3 +5,4 @@ export { default as Header } from "./Header/index";
 export { default as OptForm } from "./opt-form/index";
 export { default as Feature } from "./features/index";
 export { default as Form } from "./form/index";
+export { default as Profiles } from "./profiles/index";
