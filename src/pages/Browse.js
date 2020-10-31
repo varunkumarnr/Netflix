@@ -8,7 +8,7 @@ const Browse = () => {
   //console.log(series);
   const { films } = useContent("films");
   const slides = selectionFilter({ series, films });
-  console.log(slides);
+  // console.log(slides);
   //console.log(films);
   //we need slides
   //pass it to the browse container
