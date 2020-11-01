@@ -7,3 +7,4 @@ export { default as Feature } from "./features/index";
 export { default as Form } from "./form/index";
 export { default as Profiles } from "./profiles/index";
 export { default as Loading } from "./loading/index";
+export { default as Card } from "./card/index";
